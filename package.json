@@ -25,7 +25,7 @@
     },
     "homepage": "https://github.com/microsoft/Web-Dev-For-Beginners#readme",
     "devDependencies": {
-        "docsify-to-pdf": "0.0.5",
-        "docsify-cli": "^4.4.4"
+        "docsify-cli": "^4.4.2",
+        "docsify-to-pdf": "0.0.5"
     }
 }
